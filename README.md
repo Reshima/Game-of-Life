@@ -1,11 +1,11 @@
 # Game-of-Life
 This program runs a simulation of a game using a game board.
 The rules of the Game Of Life are as follows:
-*		For alive cells (X):
+* For alive cells (X):
 *			Each cell with less than two neighbors, who are alive, dies of loneliness in the next generation.
 *			Each cell with more than three nieghbors, who are alive, dies of overpopulation in the next generation.
 *			Each cell with two or three neighbors, who are alive, continues to live in the next generation.
-*		For dead cells (0):
+*	For dead cells (0):
 *			Each cell with three neighbors, who are alive, comes to life in the next generation.
 *		'Neighbors' are the cells diagonally, vertically and horizontally adjacent.
 To compile and run this program; use the commands:

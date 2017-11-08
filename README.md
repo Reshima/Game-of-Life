@@ -1,5 +1,6 @@
 # Game-of-Life
 This program runs a simulation of a game using a game board.
+
 The rules of the Game Of Life are as follows:
 * For alive cells (X):
 *			Each cell with less than two neighbors, who are alive, dies of loneliness in the next generation.
